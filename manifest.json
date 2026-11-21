@@ -1,0 +1,10 @@
+{
+  "cdnGlobal": "$_b9e3",
+  "files": {
+    "controller.api.js": "c70ba45e4df5c14b8e53aaecbd2be1556f274466ba6672a2663f7b7b0991838b",
+    "controller.inject.js": "ee9b0ace0770d1870594ff6ba3df4bf85fbc3267f599c0ced91a8bc50b368191",
+    "controller.sw.js": "03eeb5aebda952625dfa7fa36c63f521fae181e95fee97d536c2bb91cfaa685a",
+    "rt.js": "eb974e2072ba3982a71715e5155d4f5f41ef497d50808e8a90c9cc2fc18d4fef",
+    "rt.wasm": "c8740c340a506686d9e46feb82894ab710cf57cd20564d001d0aef04310661e8"
+  }
+}
